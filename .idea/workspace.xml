@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2cd160e5-280d-44bc-bc64-f9be8e0608af" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/currencyconverter/CurrencyConverterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/currencyconverter/CurrencyConverterController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/currencyconverter/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/currencyconverter/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/currencyconverter/main-screen.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/currencyconverter/displayScreen.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 1/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 1/Human.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 10/.breakpoints" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 10/.cache/replit/__replit_disk_meta.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 10/.cache/replit/modules.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 10/.cache/replit/nix/env.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 10/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 10/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 10/.replit" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 10/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 10/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 10/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 10/.upm/store.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 10/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 10/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 10/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 10/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 10/OverspeedingException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 10/OverspeedingException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 10/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 10/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 10/file.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 10/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 10/replit.nix" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 10/target/dependency/hamcrest-core-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 10/target/dependency/json-simple-1.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 10/target/dependency/junit-4.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 11/Employee Application/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 11/Employee Application/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 11/Employee Application/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 11/Employee Application/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 11/Employee Application/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 11/Employee Application/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 11/Employee Application/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 11/Employee Application/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 11/Employee Application/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 11/Employee Application/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 11/Employee Application/src/main/java/com/example/employeeapplication/DeleteEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 11/Employee Application/src/main/java/com/example/employeeapplication/HelloApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 11/Employee Application/src/main/java/com/example/employeeapplication/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 11/Employee Application/src/main/java/com/example/employeeapplication/NewEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 11/Employee Application/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 11/Employee Application/src/main/resources/com/example/employeeapplication/delete-employee.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 11/Employee Application/src/main/resources/com/example/employeeapplication/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 11/Employee Application/src/main/resources/com/example/employeeapplication/new-employee.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 11/Employee Application/src/main/resources/com/example/employeeapplication/update-salary.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 2/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 2/Human.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 3/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 3/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 3/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 3/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 3/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 3/Phone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 3/Phone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 4/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 4/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 4/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 4/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 6/Week 6/Course.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 6/Week 6/Course.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 6/Week 6/Laptop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 6/Week 6/Laptop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 6/Week 6/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 6/Week 6/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 6/Week 6/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 6/Week 6/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 7/ForeignStudent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 7/ForeignStudent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 7/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 7/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 7/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 7/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 7/Staff.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 7/Staff.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 7/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 7/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 7/Week 8 Notes - Inheritance.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 8/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 8/Example1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 8/Example1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 8/Example2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 8/Example2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 8/Example3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 8/Example3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 8/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 8/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 8/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 8/example1/Candy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 8/example1/Candy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 8/example1/Cookie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 8/example1/Cookie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 8/example1/DessertItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 8/example1/DessertItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 8/example1/IceCream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 8/example1/IceCream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 8/example1/Sundae.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 8/example1/Sundae.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 8/example2/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 8/example2/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 8/example2/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 8/example2/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 8/example3/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 8/example3/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 8/example3/Loan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 8/example3/Loan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 8/example3/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 8/example3/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 9/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 9/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 9/Electronics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 9/Electronics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 9/MP3Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 9/MP3Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 9/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 9/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 9/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 9/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 9/TV.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 9/TV.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 9/Warranty.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Week 9/Warranty.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2VIQXd6HDadqNetlktf4lUBgTKR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "week12",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Arief/Desktop"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.currencyconverter" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2cd160e5-280d-44bc-bc64-f9be8e0608af" name="Changes" comment="" />
+      <created>1694521160013</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694521160013</updated>
+    </task>
+    <servers />
+  </component>
+</project>
