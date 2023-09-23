@@ -28,20 +28,16 @@ public class CurrencyConverterController extends HelloApplication {
     @FXML
     void convert () {
         double iAmount = Double.parseDouble(inputAmount.getText());
-        String selectedICurrency = inputCurrencyType.getValue();
-        String selectedOCurrency = outputCurrencyType.getValue();
+        String inputCurrency = inputCurrencyType.getValue();
+        String outputCurrency = outputCurrencyType.getValue();
 
-        if (selectedICurrency.equals("CAD") && selectedOCurrency.equals("USD")){
+        if (inputCurrency.equals("CAD") && outputCurrency.equals("USD")){
             String outputAmountToDisplay = Double.toString(iAmount * 0.74);
             outputAmount.setText(outputAmountToDisplay);
         }
-        else if (selectedICurrency.equals("USD") && selectedOCurrency.equals("CAD")){
+        else if (inputCurrency.equals("USD") && outputCurrency.equals("CAD")) {
             String outputAmountToDisplay = Double.toString(iAmount / 0.74);
             outputAmount.setText(outputAmountToDisplay);
-        }
-
-        else {
-            outputAmount.setText("Please select distinct currencies");
         }
     }
 
