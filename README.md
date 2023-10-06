@@ -5,3 +5,5 @@ My mission is to develop skills in creating programs that use the object-oriente
 Throughout the process, proper program documentation using class diagrams and code comments are stressed. Unit testing is also introduced to help.
 
 This repository includes projects that span across the CLI, as well as the GUI using Java Swing and FX.
+
+The repository inclues an Employee Management Application built using JavaFX to perform CRUD operations via MySql.
