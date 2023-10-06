@@ -6,4 +6,5 @@ Throughout the process, proper program documentation using class diagrams and co
 
 This repository includes projects that span across the CLI, as well as the GUI using Java Swing and FX.
 
+## Employee Management Application
 The repository inclues an Employee Management Application built using JavaFX to perform CRUD operations via MySql.
