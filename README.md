@@ -11,7 +11,9 @@ The repository inclues an Employee Management Application built using JavaFX to 
 
 ## Functionalities:
 Update Existing Employee Salary
+
 Create New Employee
+
 Delete Existing Employee
 
 # Live Demo:
